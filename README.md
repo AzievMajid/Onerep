@@ -1,1 +1,1 @@
-# Onerep
+print("Hello")
